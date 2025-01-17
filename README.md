@@ -104,6 +104,6 @@ Próximanete, esta en desarrollo.
  ---
 
  ## **Autores / Contactos**
- - Wilson De Caro: LinkedIn
+ - Wilson De Caro: [LinkedIn](https://www.linkedin.com/in/wilson-andres-de-caro-puertas-618704201)
 
- - Anderson Arenas: LinkedIn
+ - Anderson Arenas: [LinkedIn](https://www.linkedin.com/in/anderson-arenas-suarez-43898a1b2/)
