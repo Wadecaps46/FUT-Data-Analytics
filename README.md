@@ -66,7 +66,7 @@ Los datos transformados se cargan en una base de datos alojada en Supabase:
 
 ---
 
-## ** Analítica
+## ** Analítica**
 Próximanete, esta en desarrollo.
 
 ---
